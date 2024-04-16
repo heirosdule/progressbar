@@ -82,6 +82,6 @@ body {
   transform: scale(0.97);
 }
 .buttons button:disabled {
-  background: #87a5f8;
+  background: #800000;
   cursor: not-allowed;
 }
